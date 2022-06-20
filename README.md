@@ -1,2 +1,2 @@
-# Hiragana-app
+# hiragana-APP
 Created with CodeSandbox

@@ -1,0 +1,72 @@
+body {
+  font-family: serif;
+}
+.motoContainer {
+  display: flex;
+}
+.moto {
+  width: 100px;
+  height: 100px;
+  background-color: steelblue;
+  color: black;
+  margin-right: 8px;
+  font-size: 65px;
+  text-align: center;
+  user-select: none;
+  margin-top: 12px;
+}
+.saki {
+  width: 1060px;
+  height: 100px;
+  background-color: tomato;
+  color: black;
+  display: flex;
+  font-size: 65px;
+  text-align: center;
+  user-select: none;
+  margin-top: 8px;
+  padding-left: 16px;
+}
+
+#newElement {
+  margin-right: 8px;
+}
+#newElement2 {
+  font-size: 40px;
+  max-height: 100px;
+  text-align: left;
+  padding-top: 26px;
+  padding-right: 8px;
+}
+
+.dakuonContainer {
+  display: flex;
+}
+.daku {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(29, 134, 99);
+  color: black;
+  margin-right: 8px;
+  font-size: 65px;
+  text-align: center;
+  user-select: none;
+  margin-top: 12px;
+}
+
+.you {
+  width: 100px;
+  max-height: 100px;
+  background-color: skyblue;
+  color: black;
+  margin-right: 8px;
+  font-size: 45px;
+  text-align: left;
+  padding-top: 20px;
+  user-select: none;
+  margin-top: 12px;
+}
+
+#newElement {
+  margin-right: 8px;
+}
